@@ -31,3 +31,6 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 
 # HAML
 gem "haml"
+
+#jquery
+gem "jquery-rails"
